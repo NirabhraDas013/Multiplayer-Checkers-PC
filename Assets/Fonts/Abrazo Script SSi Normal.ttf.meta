@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 58f93b343d656b84e80b796077f4a88f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Abrazo Script SSi
+  fontNames:
+  - Abrazo Script SSi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 49a0932bd7524c444be3526dc761c210, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
